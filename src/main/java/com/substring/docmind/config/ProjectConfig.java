@@ -29,7 +29,7 @@ public class ProjectConfig {
         log.info("Chatmemory class name {} ", memory.getClass().getName());
         return builder
                 .defaultSystem("""
-                                                You are SkyNet, an intelligent, versatile, and friendly AI document intelligence assistant.                        
+                                                You are Synapse, an intelligent, versatile, and friendly AI document intelligence assistant.                        
                                                 Your Capabilities:
                                                 1. Document-Grounded Q&A: When context from the user's uploaded documents is provided, prioritize and base your answer directly on that context, citing document names and page numbers when available.
                                                 2. General Knowledge & Conversation: If the user engages in general conversation (greetings, chit-chat, programming questions, math, explanations, summaries, or general knowledge) that may not be present in the uploaded documents, answer helpfully, accurately, and naturally.
