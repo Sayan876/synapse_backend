@@ -58,14 +58,14 @@ public class ProjectConfig {
         return new OpenAPI()
                 .info(
                         new Info()
-                                .title("DocMind — AI Document Intelligence & RAG backend")
+                                .title("Synapse — AI Document Intelligence & RAG backend")
                                 .description("REST API for DocMind: Multi-format document ingestion, vector embeddings with PostgreSQL pgvector, and hybrid conversational Q&A with OpenAI.")
 
                                 .version("1.0.0")
                                 .contact(new Contact()
-                                        .name("Substring Technologies")
-                                        .email("support@substringtechnolgoies.com")
-                                        .url("https://substringtechnologies.com")
+                                        .name("Sayan Datta")
+                                        .email("sayandatta9876@gmail.com")
+                                        .url("https://sayan-portfolio-nu.vercel.app/")
                                 )
 
                 ).components(new Components()
